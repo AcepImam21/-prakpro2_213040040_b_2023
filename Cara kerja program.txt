@@ -1,0 +1,11 @@
+fitur yang ada :
+
+1. input data
+2. validasi, keluar peringatan ketika ada kolom yang belum di isi
+3. ada konfirmasi ketika data tersimpan
+4. data tertampung dalam tabel
+5. menggunakan package
+6. simpan data dalam txt
+7. dapat mengedit data dengan cara : pilih kolom yang ada di dalam tabel lalu inputkan data baru dalam kolom input/textfield
+8. hapus data dalam tabel
+9. konfirmasi keluar dari aplikasi ketika menekan tombol X di pojok kanan atas
